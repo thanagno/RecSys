@@ -1,0 +1,32 @@
+version: '3.8'
+services:
+  recommender:
+    build:
+      context: .
+      dockerfile: ./setup/Dockerfile
+    volumes:
+      - ./data:/workspace/data
+      - ./src:/workspace/src
+      - ./loggers:/workspace/loggers
+      - ./tests:/workspace/tests
+    ports:
+      - "8989:8989"
+      - "8081:8081"
+#    command: ["tail", "-f", "/dev/null"]  # Keeps the container running
+#    command: ["python", "src/main.py"]  # run the app with default arguments
+    command: ["uvicorn", "--app-dir", "./src", "app:app", "--host", "0.0.0.0", "--port", "8989", "--reload"]  # run the app with default arguments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1160 @@
+2024-12-12 22:50:13 - INFO [main.py:24 - <module>] - Main App starting...
+2024-12-12 22:50:13 - INFO [main.py:29 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 22:50:13 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 22:50:13 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 22:50:13 - INFO [data_processor.py:58 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 22:50:14 - INFO [data_processor.py:91 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:06:25 - INFO [main.py:24 - <module>] - Main App starting...
+2024-12-12 23:06:27 - INFO [main.py:29 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 23:06:27 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 23:06:27 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 23:06:27 - INFO [engine.py:58 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 23:06:28 - INFO [engine.py:91 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:07:01 - INFO [main.py:24 - <module>] - Main App starting...
+2024-12-12 23:07:01 - INFO [main.py:29 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 23:07:01 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 23:07:01 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 23:07:01 - INFO [engine.py:58 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 23:07:01 - INFO [engine.py:91 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:09:22 - INFO [main.py:24 - <module>] - Main App starting...
+2024-12-12 23:09:22 - INFO [main.py:29 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 23:09:22 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 23:09:22 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 23:09:22 - INFO [engine.py:58 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 23:09:23 - INFO [engine.py:91 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:12:10 - INFO [main.py:24 - <module>] - Main App starting...
+2024-12-12 23:12:10 - INFO [main.py:29 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 23:12:10 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 23:12:10 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 23:12:10 - INFO [engine.py:58 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 23:12:10 - INFO [engine.py:91 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:18:32 - INFO [main.py:24 - <module>] - Main App starting...
+2024-12-12 23:18:32 - INFO [main.py:29 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 23:18:32 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 23:18:32 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 23:18:32 - INFO [engine.py:57 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 23:18:33 - INFO [engine.py:91 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:19:47 - INFO [main.py:24 - <module>] - Main App starting...
+2024-12-12 23:19:47 - INFO [main.py:29 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 23:19:47 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 23:19:47 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 23:19:47 - INFO [engine.py:58 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 23:19:48 - INFO [engine.py:92 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:19:55 - INFO [main.py:24 - <module>] - Main App starting...
+2024-12-12 23:19:55 - INFO [main.py:29 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 23:19:55 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 23:19:55 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 23:19:55 - INFO [engine.py:60 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 23:19:56 - INFO [engine.py:94 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:25:52 - INFO [main.py:24 - <module>] - Main App starting...
+2024-12-12 23:25:52 - INFO [main.py:29 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 23:25:52 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 23:25:52 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 23:25:52 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 23:25:52 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:25:57 - INFO [main.py:44 - main] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-12 23:26:41 - INFO [main.py:24 - <module>] - Main App starting...
+2024-12-12 23:26:41 - INFO [main.py:29 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 23:26:41 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 23:26:41 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 23:26:42 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 23:26:42 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:26:46 - INFO [main.py:44 - main] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-12 23:29:31 - INFO [main.py:24 - <module>] - Main App starting...
+2024-12-12 23:29:31 - INFO [main.py:29 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 23:29:31 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 23:29:31 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 23:29:31 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 23:29:32 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:29:36 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-12 23:31:04 - INFO [main.py:25 - <module>] - Main App starting...
+2024-12-12 23:31:04 - INFO [main.py:30 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 23:31:04 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 23:31:04 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 23:31:04 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 23:31:04 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:31:08 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-12 23:31:08 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-12 23:31:08 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-12 23:31:08 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-12 23:31:08 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-12 23:31:08 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-12 23:31:08 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-12 23:31:08 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-12 23:31:08 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-12 23:31:08 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-12 23:31:08 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-12 23:31:08 - DEBUG [engine.py:223 - recommend_ub] - defaultdict(<class 'str'>, {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'})
+2024-12-12 23:31:08 - INFO [engine.py:224 - recommend_ub] - defaultdict(<class 'str'>, {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'})
+2024-12-12 23:31:55 - INFO [main.py:25 - <module>] - Main App starting...
+2024-12-12 23:31:55 - INFO [main.py:30 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 23:31:55 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 23:31:55 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 23:31:55 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 23:31:55 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 23:31:59 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-12 23:31:59 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-12 23:31:59 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-12 23:31:59 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-12 23:31:59 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-12 23:31:59 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-12 23:31:59 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-12 23:31:59 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-12 23:31:59 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-12 23:31:59 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-12 23:31:59 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-12 23:31:59 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-12 23:31:59 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-12 21:49:36 - INFO [main.py:25 - <module>] - Main App starting...
+2024-12-12 21:50:26 - INFO [main.py:25 - <module>] - Main App starting...
+2024-12-12 21:50:26 - INFO [main.py:30 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 21:50:26 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 21:50:26 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 21:50:26 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 21:50:26 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 21:50:30 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-12 21:50:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-12 21:50:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-12 21:50:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-12 21:50:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-12 21:50:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-12 21:50:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-12 21:50:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-12 21:50:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-12 21:50:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-12 21:50:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-12 21:50:30 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-12 21:50:30 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-12 22:09:19 - INFO [main.py:25 - <module>] - Main App starting...
+2024-12-12 22:09:19 - INFO [main.py:30 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 22:09:19 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 22:09:19 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 22:09:19 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 22:09:19 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 22:09:24 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-12 22:09:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-12 22:09:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-12 22:09:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-12 22:09:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-12 22:09:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-12 22:09:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-12 22:09:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-12 22:09:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-12 22:09:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-12 22:09:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-12 22:09:24 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-12 22:09:24 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-12 22:48:35 - INFO [main.py:25 - <module>] - Main App starting...
+2024-12-12 22:48:35 - INFO [main.py:30 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-12 22:48:35 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-12 22:48:35 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-12 22:48:35 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-12 22:48:35 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-12 22:48:39 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-12 22:48:39 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-12 22:48:39 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-12 22:48:39 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-12 22:48:39 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-12 22:48:39 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-12 22:48:39 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-12 22:48:39 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-12 22:48:39 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-12 22:48:39 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-12 22:48:39 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-12 22:48:39 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-12 22:48:39 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 00:56:08 - INFO [main.py:25 - <module>] - Main App starting...
+2024-12-13 00:56:08 - INFO [main.py:30 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-13 00:56:08 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 00:56:08 - INFO [readers.py:32 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 00:56:08 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 00:56:09 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 00:56:13 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 00:56:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 00:56:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 00:56:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 00:56:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 00:56:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 00:56:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 00:56:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 00:56:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 00:56:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 00:56:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 00:56:13 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 00:56:13 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 01:18:00 - INFO [main.py:28 - <module>] - Main App starting...
+2024-12-13 01:18:00 - INFO [main.py:33 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-13 01:18:00 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:18:00 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:18:00 - ERROR [readers.py:99 - unpickle_object] - Error while unpickling object: [Errno 2] No such file or directory: 'data/models/user_ratings.pkl'
+2024-12-13 01:18:00 - ERROR [readers.py:99 - unpickle_object] - Error while unpickling object: [Errno 2] No such file or directory: 'data/models/user_neighbors.pkl'
+2024-12-13 01:18:00 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 01:18:01 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 01:18:05 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 01:18:05 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 01:18:05 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 01:18:05 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 01:18:05 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 01:18:05 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 01:18:05 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 01:18:05 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 01:18:05 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 01:18:05 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 01:18:05 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 01:18:05 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 01:18:05 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 01:19:10 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 01:19:10 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-13 01:19:10 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:19:10 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:19:10 - ERROR [readers.py:99 - unpickle_object] - Error while unpickling object: [Errno 2] No such file or directory: 'data/models/user_ratings.pkl'
+2024-12-13 01:19:10 - ERROR [readers.py:99 - unpickle_object] - Error while unpickling object: [Errno 2] No such file or directory: 'data/models/user_neighbors.pkl'
+2024-12-13 01:19:10 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 01:19:11 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 01:19:14 - ERROR [readers.py:76 - pickle_object] - Error while pickling object: [Errno 2] No such file or directory: 'data/models/user_ratings.pkl'
+2024-12-13 01:19:14 - ERROR [readers.py:76 - pickle_object] - Error while pickling object: [Errno 2] No such file or directory: 'data/models/user_neighbors.pkl'
+2024-12-13 01:19:14 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 01:19:14 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 01:19:14 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 01:19:14 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 01:19:14 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 01:19:14 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 01:19:14 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 01:19:14 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 01:19:14 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 01:19:14 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 01:19:14 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 01:19:14 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 01:19:14 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 01:19:47 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 01:19:47 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-13 01:19:47 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:19:47 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:19:47 - ERROR [readers.py:99 - unpickle_object] - Error while unpickling object: [Errno 2] No such file or directory: 'data/models/user_ratings.pkl'
+2024-12-13 01:19:47 - ERROR [readers.py:99 - unpickle_object] - Error while unpickling object: [Errno 2] No such file or directory: 'data/models/user_neighbors.pkl'
+2024-12-13 01:19:47 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 01:19:47 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 01:20:38 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 01:20:38 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-13 01:20:38 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:20:38 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:20:38 - ERROR [readers.py:103 - unpickle_object] - Error while unpickling object: [Errno 2] No such file or directory: 'data/models/user_ratings.pkl'
+2024-12-13 01:20:38 - ERROR [readers.py:103 - unpickle_object] - Error while unpickling object: [Errno 2] No such file or directory: 'data/models/user_neighbors.pkl'
+2024-12-13 01:20:38 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 01:20:39 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 01:20:43 - INFO [readers.py:78 - pickle_object] - Object has been pickled and saved to data/models/user_ratings.pkl
+2024-12-13 01:20:43 - INFO [readers.py:78 - pickle_object] - Object has been pickled and saved to data/models/user_neighbors.pkl
+2024-12-13 01:20:43 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 01:20:43 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 01:20:43 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 01:20:43 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 01:20:43 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 01:20:43 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 01:20:43 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 01:20:43 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 01:20:43 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 01:20:43 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 01:20:43 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 01:20:43 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 01:20:43 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 01:20:51 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 01:20:51 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10)
+2024-12-13 01:20:51 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:20:51 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:20:51 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 01:20:51 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 01:20:51 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 01:20:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 01:20:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 01:20:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 01:20:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 01:20:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 01:20:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 01:20:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 01:20:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 01:20:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 01:20:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 01:20:51 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 01:20:51 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 01:26:14 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 01:26:41 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 01:26:41 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10, force_calculate=False)
+2024-12-13 01:26:41 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:26:41 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:26:41 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 01:26:41 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 01:26:41 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 01:26:41 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 01:26:41 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 01:26:41 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 01:26:41 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 01:26:41 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 01:26:41 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 01:26:41 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 01:26:41 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 01:26:41 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 01:26:41 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 01:26:41 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 01:26:41 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 01:26:56 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 01:26:56 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10, force_calculate=False)
+2024-12-13 01:26:56 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:26:56 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:26:56 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 01:26:56 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 01:26:56 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 01:26:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 01:26:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 01:26:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 01:26:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 01:26:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 01:26:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 01:26:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 01:26:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 01:26:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 01:26:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 01:26:56 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 01:26:56 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 01:27:09 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 01:27:09 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10, force_calculate=False)
+2024-12-13 01:27:09 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:27:09 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:27:33 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 01:27:33 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10, force_calculate=True)
+2024-12-13 01:27:33 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:27:33 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:27:33 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 01:27:33 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 01:27:37 - INFO [readers.py:78 - pickle_object] - Object has been pickled and saved to data/models/user_ratings.pkl
+2024-12-13 01:27:37 - INFO [readers.py:78 - pickle_object] - Object has been pickled and saved to data/models/user_neighbors.pkl
+2024-12-13 01:27:37 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 01:27:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 01:27:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 01:27:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 01:27:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 01:27:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 01:27:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 01:27:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 01:27:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 01:27:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 01:27:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 01:27:37 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 01:27:37 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 01:34:19 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 01:34:35 - INFO [app.py:17 - <module>] - FastAPI App starting...
+2024-12-13 01:35:53 - INFO [app.py:18 - <module>] - FastAPI App starting...
+2024-12-13 01:35:58 - INFO [app.py:36 - health] - Health check request received.
+2024-12-13 01:40:06 - INFO [app.py:17 - <module>] - FastAPI App starting...
+2024-12-13 01:40:32 - INFO [app.py:18 - <module>] - FastAPI App starting...
+2024-12-13 01:40:36 - INFO [app.py:47 - health] - Health check request received.
+2024-12-13 01:42:14 - ERROR [app.py:109 - get_recommendations] - Error: User ratings and neighbors must be calculated first.
+2024-12-13 01:45:42 - INFO [app.py:18 - <module>] - FastAPI App starting...
+2024-12-13 01:48:08 - INFO [app.py:18 - <module>] - FastAPI App starting...
+2024-12-13 01:49:13 - INFO [app.py:18 - <module>] - FastAPI App starting...
+2024-12-13 01:49:18 - ERROR [app.py:117 - get_recommendations] - Error: User ratings and neighbors must be calculated first.
+2024-12-13 01:49:25 - INFO [app.py:58 - calculate_neighbors] - Calculating user ratings and neighbors from data at string...
+2024-12-13 01:49:26 - INFO [readers.py:35 - __init__] - Validating file `data/string/movies.csv`
+2024-12-13 01:49:26 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/string/movies.csv.
+NoneType: None
+2024-12-13 01:49:26 - ERROR [app.py:101 - calculate_neighbors_endpoint] - Error calculating neighbors: The required file was not found: data/string/movies.csv.
+2024-12-13 01:49:51 - INFO [app.py:58 - calculate_neighbors] - Calculating user ratings and neighbors from data at ml-latest-small...
+2024-12-13 01:49:51 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:49:51 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:49:51 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 01:49:51 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 01:49:56 - INFO [app.py:66 - calculate_neighbors] - Calculated user ratings and neighbors for 610 users.
+2024-12-13 01:50:01 - INFO [app.py:78 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 01:50:01 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 01:50:01 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 01:50:01 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 01:50:01 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 01:50:01 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 01:50:01 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 01:50:01 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 01:50:01 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 01:50:01 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 01:50:01 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 01:50:01 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 01:50:01 - ERROR [app.py:120 - get_recommendations] - Error generating recommendations: 'str' object has no attribute 'loc'
+2024-12-13 01:50:49 - INFO [app.py:18 - <module>] - FastAPI App starting...
+2024-12-13 01:50:50 - ERROR [app.py:117 - get_recommendations] - Error: User ratings and neighbors must be calculated first.
+2024-12-13 01:50:51 - ERROR [app.py:117 - get_recommendations] - Error: User ratings and neighbors must be calculated first.
+2024-12-13 01:50:53 - INFO [app.py:58 - calculate_neighbors] - Calculating user ratings and neighbors from data at ml-latest-small...
+2024-12-13 01:50:53 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:50:53 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:50:53 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 01:50:54 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 01:50:58 - INFO [app.py:66 - calculate_neighbors] - Calculated user ratings and neighbors for 610 users.
+2024-12-13 01:51:00 - INFO [app.py:78 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 01:51:00 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 01:51:00 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 01:51:00 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 01:51:00 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 01:51:00 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 01:51:00 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 01:51:00 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 01:51:00 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 01:51:00 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 01:51:00 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 01:51:00 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 01:51:00 - ERROR [app.py:120 - get_recommendations] - Error generating recommendations: 'str' object has no attribute 'loc'
+Traceback (most recent call last):
+  File "/Users/george/PycharmProjects/interview-submissions/./src/app.py", line 110, in get_recommendations
+    recommended_movies = generate_recommendations(
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/george/PycharmProjects/interview-submissions/./src/app.py", line 81, in generate_recommendations
+    recommended_movies = recommend_ub(
+                         ^^^^^^^^^^^^^
+  File "/Users/george/PycharmProjects/interview-submissions/./src/recommender/core/engine.py", line 199, in recommend_ub
+    movie: pd.Series = movies_df.loc[mov]  # get the movie
+                       ^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'loc'
+2024-12-13 01:52:31 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 01:52:38 - INFO [app.py:60 - calculate_neighbors] - Calculating user ratings and neighbors from data at ml-latest-small...
+2024-12-13 01:52:38 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:52:38 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:52:38 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 01:52:38 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 01:52:43 - INFO [app.py:68 - calculate_neighbors] - Calculated user ratings and neighbors for 610 users.
+2024-12-13 01:52:45 - ERROR [app.py:122 - get_recommendations] - Error generating recommendations: name 'default_data_path' is not defined
+Traceback (most recent call last):
+  File "/Users/george/PycharmProjects/interview-submissions/./src/app.py", line 112, in get_recommendations
+    recommended_movies = generate_recommendations(
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/george/PycharmProjects/interview-submissions/./src/app.py", line 77, in generate_recommendations
+    if user_ratings is None or neighbors_u is None or default_data_path is None:
+                                                      ^^^^^^^^^^^^^^^^^
+NameError: name 'default_data_path' is not defined
+2024-12-13 01:53:09 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 01:53:12 - INFO [app.py:60 - calculate_neighbors] - Calculating user ratings and neighbors from data at ml-latest-small...
+2024-12-13 01:53:12 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:53:12 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:53:12 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 01:53:12 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 01:53:16 - INFO [app.py:68 - calculate_neighbors] - Calculated user ratings and neighbors for 610 users.
+2024-12-13 01:53:16 - INFO [app.py:80 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 01:53:16 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 01:53:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 01:53:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 01:53:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 01:53:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 01:53:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 01:53:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 01:53:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 01:53:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 01:53:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 01:53:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 01:53:16 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 01:53:16 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 01:54:53 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 01:54:53 - INFO [app.py:62 - calculate_neighbors] - Calculating user ratings and neighbors from data at ml-latest-small...
+2024-12-13 01:54:53 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 01:54:53 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 01:54:53 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 01:54:53 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 01:54:58 - INFO [app.py:70 - calculate_neighbors] - Calculated user ratings and neighbors for 610 users.
+2024-12-13 01:54:58 - INFO [app.py:82 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 01:54:58 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 01:54:58 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 01:54:58 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 01:54:58 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 01:54:58 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 01:54:58 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 01:54:58 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 01:54:58 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 01:54:58 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 01:54:58 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 01:54:58 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 01:54:58 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 01:54:58 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 09:59:28 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 09:59:28 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 09:59:28 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 09:59:28 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 09:59:29 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 09:59:53 - INFO [app.py:85 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 09:59:53 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 09:59:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 09:59:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 09:59:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 09:59:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 09:59:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 09:59:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 09:59:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 09:59:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 09:59:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 09:59:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 09:59:53 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 09:59:53 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 10:00:00 - INFO [app.py:65 - calculate_neighbors] - Calculating user ratings and neighbors from data at string...
+2024-12-13 10:00:00 - INFO [readers.py:35 - __init__] - Validating file `data/string/movies.csv`
+2024-12-13 10:00:00 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/string/movies.csv.
+NoneType: None
+2024-12-13 10:00:00 - ERROR [app.py:108 - calculate_neighbors_endpoint] - Error calculating neighbors: The required file was not found: data/string/movies.csv.
+2024-12-13 10:00:48 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:00:48 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:00:48 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:00:48 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:00:48 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:05:15 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:05:15 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:05:15 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:05:15 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:05:15 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:05:22 - INFO [app.py:74 - calculate_neighbors] - Calculating user ratings and neighbors from data at string...
+2024-12-13 10:05:22 - INFO [readers.py:35 - __init__] - Validating file `data/string/movies.csv`
+2024-12-13 10:05:22 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/string/movies.csv.
+NoneType: None
+2024-12-13 10:05:22 - ERROR [app.py:117 - calculate_neighbors_endpoint] - Error calculating neighbors: The required file was not found: data/string/movies.csv.
+2024-12-13 10:08:55 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:08:55 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:08:55 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:08:55 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:08:55 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:10:51 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:10:51 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:10:51 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:10:51 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:10:51 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:10:57 - INFO [app.py:74 - calculate_neighbors] - Calculating user ratings and neighbors from data at string...
+2024-12-13 10:10:57 - INFO [readers.py:35 - __init__] - Validating file `data/string/movies.csv`
+2024-12-13 10:10:57 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/string/movies.csv.
+NoneType: None
+2024-12-13 10:10:57 - ERROR [app.py:117 - calculate_neighbors_endpoint] - Error calculating neighbors: The required file was not found: data/string/movies.csv.
+2024-12-13 10:14:05 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:14:05 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:14:05 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:14:05 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:14:05 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:14:22 - INFO [app.py:61 - health] - Health check request received.
+2024-12-13 10:14:26 - INFO [app.py:74 - calculate_neighbors] - Calculating user ratings and neighbors from data at string...
+2024-12-13 10:14:26 - INFO [readers.py:35 - __init__] - Validating file `data/string/movies.csv`
+2024-12-13 10:14:26 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/string/movies.csv.
+NoneType: None
+2024-12-13 10:14:26 - ERROR [app.py:121 - calculate_neighbors_endpoint] - Error calculating neighbors: The required file was not found: data/string/movies.csv.
+2024-12-13 10:18:09 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:18:09 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:18:09 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:18:09 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:18:09 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:18:27 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:18:27 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:18:27 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:18:27 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:18:27 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:18:40 - INFO [app.py:74 - calculate_neighbors] - Calculating user ratings and neighbors from data at string...
+2024-12-13 10:18:40 - INFO [readers.py:35 - __init__] - Validating file `data/string/movies.csv`
+2024-12-13 10:18:40 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/string/movies.csv.
+NoneType: None
+2024-12-13 10:18:40 - ERROR [app.py:121 - calculate_neighbors_endpoint] - Error calculating neighbors: The required file was not found: data/string/movies.csv.
+2024-12-13 10:24:23 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:24:23 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:24:23 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:24:23 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:24:23 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:25:00 - INFO [app.py:74 - calculate_neighbors] - Calculating user ratings and neighbors from data at string...
+2024-12-13 10:25:00 - INFO [readers.py:35 - __init__] - Validating file `data/string/movies.csv`
+2024-12-13 10:25:00 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/string/movies.csv.
+NoneType: None
+2024-12-13 10:25:00 - ERROR [app.py:121 - calculate_neighbors_endpoint] - Error calculating neighbors: The required file was not found: data/string/movies.csv.
+2024-12-13 10:25:01 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:25:01 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:25:01 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:25:01 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:25:01 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:25:06 - INFO [app.py:74 - calculate_neighbors] - Calculating user ratings and neighbors from data at string...
+2024-12-13 10:25:06 - INFO [readers.py:35 - __init__] - Validating file `data/string/movies.csv`
+2024-12-13 10:25:06 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/string/movies.csv.
+NoneType: None
+2024-12-13 10:25:06 - ERROR [app.py:121 - calculate_neighbors_endpoint] - Error calculating neighbors: The required file was not found: data/string/movies.csv.
+2024-12-13 10:25:08 - INFO [app.py:74 - calculate_neighbors] - Calculating user ratings and neighbors from data at string...
+2024-12-13 10:25:08 - INFO [readers.py:35 - __init__] - Validating file `data/string/movies.csv`
+2024-12-13 10:25:08 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/string/movies.csv.
+NoneType: None
+2024-12-13 10:25:08 - ERROR [app.py:121 - calculate_neighbors_endpoint] - Error calculating neighbors: The required file was not found: data/string/movies.csv.
+2024-12-13 10:25:26 - INFO [app.py:94 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 10:25:26 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 10:25:26 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 10:25:26 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 10:25:26 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 10:25:26 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 10:25:26 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 10:25:26 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 10:25:26 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 10:25:26 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 10:25:26 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 10:25:26 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 10:25:26 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 10:25:26 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 10:25:26 - ERROR [app.py:152 - get_recommendations] - Error generating recommendations: Object of type Movie is not JSON serializable
+Traceback (most recent call last):
+  File "/Users/george/PycharmProjects/interview-submissions/./src/app.py", line 139, in get_recommendations
+    return JSONResponse(
+           ^^^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/site-packages/starlette/responses.py", line 180, in __init__
+    super().__init__(content, status_code, headers, media_type, background)
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/site-packages/starlette/responses.py", line 43, in __init__
+    self.body = self.render(content)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/site-packages/starlette/responses.py", line 183, in render
+    return json.dumps(
+           ^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/json/encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/json/encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/json/encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Movie is not JSON serializable
+2024-12-13 10:26:05 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:26:05 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:26:05 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:26:05 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:26:05 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:26:11 - INFO [app.py:94 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 10:26:11 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 10:26:11 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 10:26:11 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 10:26:11 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 10:26:11 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 10:26:11 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 10:26:11 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 10:26:11 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 10:26:11 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 10:26:11 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 10:26:11 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 10:26:11 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 10:26:11 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 10:26:11 - ERROR [app.py:154 - get_recommendations] - Error generating recommendations: Object of type Movie is not JSON serializable
+Traceback (most recent call last):
+  File "/Users/george/PycharmProjects/interview-submissions/./src/app.py", line 141, in get_recommendations
+    return JSONResponse(
+           ^^^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/site-packages/starlette/responses.py", line 180, in __init__
+    super().__init__(content, status_code, headers, media_type, background)
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/site-packages/starlette/responses.py", line 43, in __init__
+    self.body = self.render(content)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/site-packages/starlette/responses.py", line 183, in render
+    return json.dumps(
+           ^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/json/encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/json/encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/json/encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Movie is not JSON serializable
+2024-12-13 10:28:30 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:28:30 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:28:30 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:28:30 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:28:30 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:32:44 - INFO [app.py:94 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 10:32:44 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 10:32:44 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 10:32:44 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 10:32:44 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 10:32:44 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 10:32:44 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 10:32:44 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 10:32:44 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 10:32:44 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 10:32:44 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 10:32:44 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 10:32:44 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 10:32:44 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 10:33:03 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:33:03 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:33:03 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:33:03 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:33:03 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:33:09 - INFO [app.py:94 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 10:33:09 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 10:33:09 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 10:33:09 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 10:33:09 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 10:33:09 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 10:33:09 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 10:33:09 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 10:33:09 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 10:33:09 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 10:33:09 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 10:33:09 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 10:33:09 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 10:33:09 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 10:33:09 - ERROR [app.py:154 - get_recommendations] - Error generating recommendations: Object of type Movie is not JSON serializable
+Traceback (most recent call last):
+  File "/Users/george/PycharmProjects/interview-submissions/./src/app.py", line 141, in get_recommendations
+    return JSONResponse(
+           ^^^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/site-packages/starlette/responses.py", line 180, in __init__
+    super().__init__(content, status_code, headers, media_type, background)
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/site-packages/starlette/responses.py", line 43, in __init__
+    self.body = self.render(content)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/site-packages/starlette/responses.py", line 183, in render
+    return json.dumps(
+           ^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/json/encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/json/encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/george/miniconda3/envs/movie-recommender/lib/python3.11/json/encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Movie is not JSON serializable
+2024-12-13 10:42:35 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:42:35 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:42:35 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:42:35 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:42:35 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:42:40 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:42:40 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:42:40 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:42:40 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:42:40 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:42:50 - INFO [app.py:94 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 10:42:50 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 10:42:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 10:42:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 10:42:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 10:42:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 10:42:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 10:42:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 10:42:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 10:42:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 10:42:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 10:42:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 10:42:50 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 10:42:50 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 10:42:56 - INFO [app.py:94 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 10:42:56 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 10:42:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 10:42:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 10:42:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 10:42:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 10:42:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 10:42:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 10:42:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 10:42:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 10:42:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 10:42:56 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 10:42:56 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 10:42:56 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 10:42:57 - INFO [app.py:94 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 10:42:57 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 10:42:57 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 10:42:57 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 10:42:57 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 10:42:57 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 10:42:57 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 10:42:57 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 10:42:57 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 10:42:57 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 10:42:57 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 10:42:57 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 10:42:57 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 10:42:57 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 10:43:16 - INFO [app.py:94 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 10:43:16 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 10:43:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 10:43:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 10:43:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 10:43:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 10:43:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 10:43:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 10:43:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 10:43:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 10:43:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 10:43:16 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 10:43:16 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 10:43:16 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 10:43:31 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:43:31 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:43:31 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:43:31 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:43:31 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:43:37 - INFO [app.py:94 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 10:43:37 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 10:43:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 10:43:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 10:43:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 10:43:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 10:43:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 10:43:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 10:43:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 10:43:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 10:43:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 10:43:37 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 10:43:37 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 10:43:37 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 10:44:00 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:44:00 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:44:00 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:44:00 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:44:01 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:52:33 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:52:33 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:52:33 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:52:33 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:52:34 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:52:43 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:52:43 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-smalll/movies.csv`
+2024-12-13 10:52:43 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/ml-latest-smalll/movies.csv.
+NoneType: None
+2024-12-13 10:53:01 - INFO [app.py:21 - <module>] - FastAPI App starting...
+2024-12-13 10:53:01 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-smalll/movies.csv`
+2024-12-13 10:53:01 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/ml-latest-smalll/movies.csv.
+NoneType: None
+2024-12-13 10:54:17 - INFO [app.py:20 - <module>] - FastAPI App starting...
+2024-12-13 10:54:17 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:54:17 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:54:17 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 10:54:17 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 10:56:21 - INFO [app.py:27 - <module>] - FastAPI App starting...
+2024-12-13 10:56:21 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 10:56:21 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 10:59:05 - INFO [app.py:27 - <module>] - FastAPI App starting...
+2024-12-13 10:59:05 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 10:59:05 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 10:59:05 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 10:59:05 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 10:59:05 - INFO [app.py:45 - <module>] - Pre-calculated ratings and neighbors loaded.
+2024-12-13 10:59:54 - INFO [app.py:114 - generate_recommendations] - Generating recommendations for user 10...
+2024-12-13 10:59:54 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 10
+2024-12-13 10:59:54 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 491 with similarity 0.08
+2024-12-13 10:59:54 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 331 with similarity 0.07
+2024-12-13 10:59:54 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 460 with similarity 0.07
+2024-12-13 10:59:54 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 159 with similarity 0.07
+2024-12-13 10:59:54 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 601 with similarity 0.07
+2024-12-13 10:59:54 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 119 with similarity 0.07
+2024-12-13 10:59:54 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 466 with similarity 0.07
+2024-12-13 10:59:54 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 189 with similarity 0.07
+2024-12-13 10:59:54 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 586 with similarity 0.06
+2024-12-13 10:59:54 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 563 with similarity 0.06
+2024-12-13 10:59:54 - DEBUG [engine.py:223 - recommend_ub] - {'Forrest Gump (1994)': 'P', 'Gladiator (2000)': 'P', 'Lord of the Rings: The Fellowship of the Ring, The (2001)': 'P', 'Lord of the Rings: The Two Towers, The (2002)': 'P', 'Lord of the Rings: The Return of the King, The (2003)': 'P', 'Up (2009)': 'P', 'Finding Nemo (2003)': 'P'}
+2024-12-13 10:59:54 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 0.911}, {'movieId': 50872, 'title': 'Ratatouille (2007)', 'movie_genres': 'Animation|Children|Drama', 'recommendedScore': 0.849}, {'movieId': 79132, 'title': 'Inception (2010)', 'movie_genres': 'Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX', 'recommendedScore': 0.84}, {'movieId': 4963, 'title': "Ocean's Eleven (2001)", 'movie_genres': 'Crime|Thriller', 'recommendedScore': 0.836}, {'movieId': 78499, 'title': 'Toy Story 3 (2010)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy|IMAX', 'recommendedScore': 0.835}]
+2024-12-13 11:00:04 - INFO [app.py:114 - generate_recommendations] - Generating recommendations for user 10...
+2024-12-13 11:00:04 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 10
+2024-12-13 11:00:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 491 with similarity 0.08
+2024-12-13 11:00:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 331 with similarity 0.07
+2024-12-13 11:00:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 460 with similarity 0.07
+2024-12-13 11:00:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 159 with similarity 0.07
+2024-12-13 11:00:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 601 with similarity 0.07
+2024-12-13 11:00:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 119 with similarity 0.07
+2024-12-13 11:00:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 466 with similarity 0.07
+2024-12-13 11:00:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 189 with similarity 0.07
+2024-12-13 11:00:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 586 with similarity 0.06
+2024-12-13 11:00:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 563 with similarity 0.06
+2024-12-13 11:00:04 - DEBUG [engine.py:223 - recommend_ub] - {'Forrest Gump (1994)': 'P', 'Gladiator (2000)': 'P', 'Lord of the Rings: The Fellowship of the Ring, The (2001)': 'P', 'Lord of the Rings: The Two Towers, The (2002)': 'P', 'Lord of the Rings: The Return of the King, The (2003)': 'P', 'Up (2009)': 'P', 'Finding Nemo (2003)': 'P', 'Batman Begins (2005)': 'P', 'Bourne Ultimatum, The (2007)': 'P', 'Matrix, The (1999)': 'N', "King's Speech, The (2010)": 'P', 'Incredibles, The (2004)': 'N', 'Dark Knight Rises, The (2012)': 'P', 'Fight Club (1999)': 'N', 'Help, The (2011)': 'A', 'Beautiful Mind, A (2001)': 'P', 'Casino Royale (2006)': 'P', 'Sherlock Holmes (2009)': 'A', 'Avatar (2009)': 'N', 'Dark Knight, The (2008)': 'P'}
+2024-12-13 11:00:04 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 0.911}, {'movieId': 50872, 'title': 'Ratatouille (2007)', 'movie_genres': 'Animation|Children|Drama', 'recommendedScore': 0.849}, {'movieId': 79132, 'title': 'Inception (2010)', 'movie_genres': 'Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX', 'recommendedScore': 0.84}, {'movieId': 4963, 'title': "Ocean's Eleven (2001)", 'movie_genres': 'Crime|Thriller', 'recommendedScore': 0.836}, {'movieId': 78499, 'title': 'Toy Story 3 (2010)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy|IMAX', 'recommendedScore': 0.835}, {'movieId': 76093, 'title': 'How to Train Your Dragon (2010)', 'movie_genres': 'Adventure|Animation|Children|Fantasy|IMAX', 'recommendedScore': 0.822}, {'movieId': 5418, 'title': 'Bourne Identity, The (2002)', 'movie_genres': 'Action|Mystery|Thriller', 'recommendedScore': 0.693}, {'movieId': 4886, 'title': 'Monsters, Inc. (2001)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 0.626}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 0.571}, {'movieId': 1265, 'title': 'Groundhog Day (1993)', 'movie_genres': 'Comedy|Fantasy|Romance', 'recommendedScore': 0.565}, {'movieId': 40815, 'title': 'Harry Potter and the Goblet of Fire (2005)', 'movie_genres': 'Adventure|Fantasy|Thriller|IMAX', 'recommendedScore': 0.565}, {'movieId': 45720, 'title': 'Devil Wears Prada, The (2006)', 'movie_genres': 'Comedy|Drama', 'recommendedScore': 0.565}, {'movieId': 116797, 'title': 'The Imitation Game (2014)', 'movie_genres': 'Drama|Thriller|War', 'recommendedScore': 0.562}, {'movieId': 5989, 'title': 'Catch Me If You Can (2002)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 0.561}, {'movieId': 1704, 'title': 'Good Will Hunting (1997)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 0.56}, {'movieId': 3114, 'title': 'Toy Story 2 (1999)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 0.56}, {'movieId': 48516, 'title': 'Departed, The (2006)', 'movie_genres': 'Crime|Drama|Thriller', 'recommendedScore': 0.559}, {'movieId': 60069, 'title': 'WALL·E (2008)', 'movie_genres': 'Adventure|Animation|Children|Romance|Sci-Fi', 'recommendedScore': 0.544}, {'movieId': 134853, 'title': 'Inside Out (2015)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Drama|Fantasy', 'recommendedScore': 0.536}, {'movieId': 69757, 'title': '(500) Days of Summer (2009)', 'movie_genres': 'Comedy|Drama|Romance', 'recommendedScore': 0.45}]
+2024-12-13 11:00:13 - INFO [app.py:114 - generate_recommendations] - Generating recommendations for user 1...
+2024-12-13 11:00:13 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 1
+2024-12-13 11:00:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 452 with similarity 0.16
+2024-12-13 11:00:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 266 with similarity 0.14
+2024-12-13 11:00:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.14
+2024-12-13 11:00:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.13
+2024-12-13 11:00:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 135 with similarity 0.13
+2024-12-13 11:00:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 239 with similarity 0.13
+2024-12-13 11:00:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 166 with similarity 0.13
+2024-12-13 11:00:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 202 with similarity 0.12
+2024-12-13 11:00:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 64 with similarity 0.12
+2024-12-13 11:00:13 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 45 with similarity 0.12
+2024-12-13 11:00:13 - DEBUG [engine.py:223 - recommend_ub] - {'Star Wars: Episode IV - A New Hope (1977)': 'P', 'Star Wars: Episode V - The Empire Strikes Back (1980)': 'P', 'Saving Private Ryan (1998)': 'P', 'Jurassic Park (1993)': 'P', 'Forrest Gump (1994)': 'P', 'Matrix, The (1999)': 'P', 'Princess Bride, The (1987)': 'P', 'Reservoir Dogs (1992)': 'P', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)': 'P', 'Indiana Jones and the Last Crusade (1989)': 'P', 'Braveheart (1995)': 'P', 'Monty Python and the Holy Grail (1975)': 'P', 'Alien (1979)': 'P', 'X-Men (2000)': 'P', 'Pulp Fiction (1994)': 'A', 'Fight Club (1999)': 'P', 'Terminator, The (1984)': 'P', 'Full Metal Jacket (1987)': 'P', 'Big Lebowski, The (1998)': 'P', 'Clockwork Orange, A (1971)': 'P', 'Austin Powers: International Man of Mystery (1997)': 'P', 'Fargo (1996)': 'P', 'American Beauty (1999)': 'P', 'Seven (a.k.a. Se7en) (1995)': 'P', 'Office Space (1999)': 'P', 'Star Wars: Episode VI - Return of the Jedi (1983)': 'P', 'Green Mile, The (1999)': 'P', 'Ghostbusters (a.k.a. Ghost Busters) (1984)': 'P', 'E.T. the Extra-Terrestrial (1982)': 'P', 'Who Framed Roger Rabbit? (1988)': 'P', 'Groundhog Day (1993)': 'P', 'Silence of the Lambs, The (1991)': 'P', 'Fugitive, The (1993)': 'P', 'Usual Suspects, The (1995)': 'P', 'Back to the Future (1985)': 'P', 'L.A. Confidential (1997)': 'P', 'Rocky (1976)': 'P', 'Apocalypse Now (1979)': 'P', 'Big (1988)': 'P', 'Dogma (1999)': 'P', 'Batman (1989)': 'P'}
+2024-12-13 11:00:13 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 2.39}, {'movieId': 858, 'title': 'Godfather, The (1972)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 2.352}, {'movieId': 32, 'title': 'Twelve Monkeys (a.k.a. 12 Monkeys) (1995)', 'movie_genres': 'Mystery|Sci-Fi|Thriller', 'recommendedScore': 2.059}, {'movieId': 1036, 'title': 'Die Hard (1988)', 'movie_genres': 'Action|Crime|Thriller', 'recommendedScore': 1.904}, {'movieId': 353, 'title': 'Crow, The (1994)', 'movie_genres': 'Action|Crime|Fantasy|Thriller', 'recommendedScore': 1.878}, {'movieId': 2683, 'title': 'Austin Powers: The Spy Who Shagged Me (1999)', 'movie_genres': 'Action|Adventure|Comedy', 'recommendedScore': 1.87}, {'movieId': 1221, 'title': 'Godfather: Part II, The (1974)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.823}, {'movieId': 588, 'title': 'Aladdin (1992)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Musical', 'recommendedScore': 1.775}, {'movieId': 1961, 'title': 'Rain Man (1988)', 'movie_genres': 'Drama', 'recommendedScore': 1.775}, {'movieId': 1682, 'title': 'Truman Show, The (1998)', 'movie_genres': 'Comedy|Drama|Sci-Fi', 'recommendedScore': 1.77}, {'movieId': 2167, 'title': 'Blade (1998)', 'movie_genres': 'Action|Horror|Thriller', 'recommendedScore': 1.763}, {'movieId': 1610, 'title': 'Hunt for Red October, The (1990)', 'movie_genres': 'Action|Adventure|Thriller', 'recommendedScore': 1.76}, {'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.717}, {'movieId': 1200, 'title': 'Aliens (1986)', 'movie_genres': 'Action|Adventure|Horror|Sci-Fi', 'recommendedScore': 1.626}, {'movieId': 2194, 'title': 'Untouchables, The (1987)', 'movie_genres': 'Action|Crime|Drama', 'recommendedScore': 1.616}, {'movieId': 2064, 'title': 'Roger & Me (1989)', 'movie_genres': 'Documentary', 'recommendedScore': 1.545}, {'movieId': 778, 'title': 'Trainspotting (1996)', 'movie_genres': 'Comedy|Crime|Drama', 'recommendedScore': 1.543}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.534}, {'movieId': 1704, 'title': 'Good Will Hunting (1997)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.527}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.524}]
+2024-12-13 11:00:55 - INFO [app.py:94 - calculate_neighbors] - Calculating user ratings and neighbors from data at ml-latest-small-v2...
+2024-12-13 11:00:55 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small-v2/movies.csv`
+2024-12-13 11:00:55 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small-v2/ratings.csv`
+2024-12-13 11:00:55 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 11:00:56 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 11:01:00 - INFO [app.py:102 - calculate_neighbors] - Calculated user ratings and neighbors for 610 users.
+2024-12-13 11:04:01 - INFO [app.py:94 - calculate_neighbors] - Calculating user ratings and neighbors from data at ml-latest-small-v2...
+2024-12-13 11:04:01 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small-v2/movies.csv`
+2024-12-13 11:04:01 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small-v2/ratings.csv`
+2024-12-13 11:04:02 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 11:04:02 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 11:04:06 - INFO [app.py:102 - calculate_neighbors] - Calculated user ratings and neighbors for 610 users.
+2024-12-13 11:04:17 - INFO [app.py:114 - generate_recommendations] - Generating recommendations for user 1...
+2024-12-13 11:04:17 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 1
+2024-12-13 11:04:17 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 452 with similarity 0.16
+2024-12-13 11:04:17 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 266 with similarity 0.14
+2024-12-13 11:04:17 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.14
+2024-12-13 11:04:17 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.13
+2024-12-13 11:04:17 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 135 with similarity 0.13
+2024-12-13 11:04:17 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 239 with similarity 0.13
+2024-12-13 11:04:17 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 166 with similarity 0.13
+2024-12-13 11:04:17 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 202 with similarity 0.12
+2024-12-13 11:04:17 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 64 with similarity 0.12
+2024-12-13 11:04:17 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 45 with similarity 0.12
+2024-12-13 11:04:17 - DEBUG [engine.py:223 - recommend_ub] - {'MOVIE #260': 'P', 'MOVIE #1196': 'P', 'MOVIE #2028': 'P', 'MOVIE #480': 'P', 'MOVIE #356': 'P', 'MOVIE #2571': 'P', 'MOVIE #1197': 'P', 'MOVIE #1089': 'P', 'MOVIE #1198': 'P', 'MOVIE #1291': 'P', 'MOVIE #110': 'P', 'MOVIE #1136': 'P', 'MOVIE #1214': 'P', 'MOVIE #3793': 'P', 'MOVIE #296': 'A', 'MOVIE #2959': 'P', 'MOVIE #1240': 'P', 'MOVIE #1222': 'P', 'MOVIE #1732': 'P', 'MOVIE #1206': 'P', 'MOVIE #1517': 'P', 'MOVIE #608': 'P', 'MOVIE #2858': 'P', 'MOVIE #47': 'P', 'MOVIE #2502': 'P', 'MOVIE #1210': 'P', 'MOVIE #3147': 'P', 'MOVIE #2716': 'P', 'MOVIE #1097': 'P', 'MOVIE #2987': 'P', 'MOVIE #1265': 'P', 'MOVIE #593': 'P', 'MOVIE #457': 'P', 'MOVIE #50': 'P', 'MOVIE #1270': 'P', 'MOVIE #1617': 'P', 'MOVIE #1954': 'P', 'MOVIE #1208': 'P', 'MOVIE #2797': 'P', 'MOVIE #3052': 'P', 'MOVIE #592': 'P'}
+2024-12-13 11:04:17 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 589, 'title': 'MOVIE #589', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 2.39}, {'movieId': 858, 'title': 'MOVIE #858', 'movie_genres': 'Crime|Drama', 'recommendedScore': 2.352}, {'movieId': 32, 'title': 'MOVIE #32', 'movie_genres': 'Mystery|Sci-Fi|Thriller', 'recommendedScore': 2.059}, {'movieId': 1036, 'title': 'MOVIE #1036', 'movie_genres': 'Action|Crime|Thriller', 'recommendedScore': 1.904}, {'movieId': 353, 'title': 'MOVIE #353', 'movie_genres': 'Action|Crime|Fantasy|Thriller', 'recommendedScore': 1.878}, {'movieId': 2683, 'title': 'MOVIE #2683', 'movie_genres': 'Action|Adventure|Comedy', 'recommendedScore': 1.87}, {'movieId': 1221, 'title': 'MOVIE #1221', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.823}, {'movieId': 588, 'title': 'MOVIE #588', 'movie_genres': 'Adventure|Animation|Children|Comedy|Musical', 'recommendedScore': 1.775}, {'movieId': 1961, 'title': 'MOVIE #1961', 'movie_genres': 'Drama', 'recommendedScore': 1.775}, {'movieId': 1682, 'title': 'MOVIE #1682', 'movie_genres': 'Comedy|Drama|Sci-Fi', 'recommendedScore': 1.77}, {'movieId': 2167, 'title': 'MOVIE #2167', 'movie_genres': 'Action|Horror|Thriller', 'recommendedScore': 1.763}, {'movieId': 1610, 'title': 'MOVIE #1610', 'movie_genres': 'Action|Adventure|Thriller', 'recommendedScore': 1.76}, {'movieId': 2762, 'title': 'MOVIE #2762', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.717}, {'movieId': 1200, 'title': 'MOVIE #1200', 'movie_genres': 'Action|Adventure|Horror|Sci-Fi', 'recommendedScore': 1.626}, {'movieId': 2194, 'title': 'MOVIE #2194', 'movie_genres': 'Action|Crime|Drama', 'recommendedScore': 1.616}, {'movieId': 2064, 'title': 'MOVIE #2064', 'movie_genres': 'Documentary', 'recommendedScore': 1.545}, {'movieId': 778, 'title': 'MOVIE #778', 'movie_genres': 'Comedy|Crime|Drama', 'recommendedScore': 1.543}, {'movieId': 2918, 'title': 'MOVIE #2918', 'movie_genres': 'Comedy', 'recommendedScore': 1.534}, {'movieId': 1704, 'title': 'MOVIE #1704', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.527}, {'movieId': 318, 'title': 'MOVIE #318', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.524}]
+2024-12-13 11:04:25 - INFO [app.py:94 - calculate_neighbors] - Calculating user ratings and neighbors from data at ml-latest-small-v1...
+2024-12-13 11:04:25 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small-v1/movies.csv`
+2024-12-13 11:04:25 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/ml-latest-small-v1/movies.csv.
+NoneType: None
+2024-12-13 11:04:25 - ERROR [app.py:141 - update_neighbors_endpoint] - Error calculating neighbors: The required file was not found: data/ml-latest-small-v1/movies.csv.
+2024-12-13 11:04:30 - INFO [app.py:114 - generate_recommendations] - Generating recommendations for user 1...
+2024-12-13 11:04:30 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 1
+2024-12-13 11:04:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 452 with similarity 0.16
+2024-12-13 11:04:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 266 with similarity 0.14
+2024-12-13 11:04:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.14
+2024-12-13 11:04:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.13
+2024-12-13 11:04:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 135 with similarity 0.13
+2024-12-13 11:04:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 239 with similarity 0.13
+2024-12-13 11:04:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 166 with similarity 0.13
+2024-12-13 11:04:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 202 with similarity 0.12
+2024-12-13 11:04:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 64 with similarity 0.12
+2024-12-13 11:04:30 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 45 with similarity 0.12
+2024-12-13 11:04:30 - DEBUG [engine.py:223 - recommend_ub] - {'MOVIE #260': 'P', 'MOVIE #1196': 'P', 'MOVIE #2028': 'P', 'MOVIE #480': 'P', 'MOVIE #356': 'P', 'MOVIE #2571': 'P', 'MOVIE #1197': 'P', 'MOVIE #1089': 'P', 'MOVIE #1198': 'P', 'MOVIE #1291': 'P', 'MOVIE #110': 'P', 'MOVIE #1136': 'P', 'MOVIE #1214': 'P', 'MOVIE #3793': 'P', 'MOVIE #296': 'A', 'MOVIE #2959': 'P', 'MOVIE #1240': 'P', 'MOVIE #1222': 'P', 'MOVIE #1732': 'P', 'MOVIE #1206': 'P', 'MOVIE #1517': 'P', 'MOVIE #608': 'P', 'MOVIE #2858': 'P', 'MOVIE #47': 'P', 'MOVIE #2502': 'P', 'MOVIE #1210': 'P', 'MOVIE #3147': 'P', 'MOVIE #2716': 'P', 'MOVIE #1097': 'P', 'MOVIE #2987': 'P', 'MOVIE #1265': 'P', 'MOVIE #593': 'P', 'MOVIE #457': 'P', 'MOVIE #50': 'P', 'MOVIE #1270': 'P', 'MOVIE #1617': 'P', 'MOVIE #1954': 'P', 'MOVIE #1208': 'P', 'MOVIE #2797': 'P', 'MOVIE #3052': 'P', 'MOVIE #592': 'P'}
+2024-12-13 11:04:30 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 589, 'title': 'MOVIE #589', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 2.39}, {'movieId': 858, 'title': 'MOVIE #858', 'movie_genres': 'Crime|Drama', 'recommendedScore': 2.352}, {'movieId': 32, 'title': 'MOVIE #32', 'movie_genres': 'Mystery|Sci-Fi|Thriller', 'recommendedScore': 2.059}, {'movieId': 1036, 'title': 'MOVIE #1036', 'movie_genres': 'Action|Crime|Thriller', 'recommendedScore': 1.904}, {'movieId': 353, 'title': 'MOVIE #353', 'movie_genres': 'Action|Crime|Fantasy|Thriller', 'recommendedScore': 1.878}, {'movieId': 2683, 'title': 'MOVIE #2683', 'movie_genres': 'Action|Adventure|Comedy', 'recommendedScore': 1.87}, {'movieId': 1221, 'title': 'MOVIE #1221', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.823}, {'movieId': 588, 'title': 'MOVIE #588', 'movie_genres': 'Adventure|Animation|Children|Comedy|Musical', 'recommendedScore': 1.775}, {'movieId': 1961, 'title': 'MOVIE #1961', 'movie_genres': 'Drama', 'recommendedScore': 1.775}, {'movieId': 1682, 'title': 'MOVIE #1682', 'movie_genres': 'Comedy|Drama|Sci-Fi', 'recommendedScore': 1.77}, {'movieId': 2167, 'title': 'MOVIE #2167', 'movie_genres': 'Action|Horror|Thriller', 'recommendedScore': 1.763}, {'movieId': 1610, 'title': 'MOVIE #1610', 'movie_genres': 'Action|Adventure|Thriller', 'recommendedScore': 1.76}, {'movieId': 2762, 'title': 'MOVIE #2762', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.717}, {'movieId': 1200, 'title': 'MOVIE #1200', 'movie_genres': 'Action|Adventure|Horror|Sci-Fi', 'recommendedScore': 1.626}, {'movieId': 2194, 'title': 'MOVIE #2194', 'movie_genres': 'Action|Crime|Drama', 'recommendedScore': 1.616}, {'movieId': 2064, 'title': 'MOVIE #2064', 'movie_genres': 'Documentary', 'recommendedScore': 1.545}, {'movieId': 778, 'title': 'MOVIE #778', 'movie_genres': 'Comedy|Crime|Drama', 'recommendedScore': 1.543}, {'movieId': 2918, 'title': 'MOVIE #2918', 'movie_genres': 'Comedy', 'recommendedScore': 1.534}, {'movieId': 1704, 'title': 'MOVIE #1704', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.527}, {'movieId': 318, 'title': 'MOVIE #318', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.524}]
+2024-12-13 11:04:35 - INFO [app.py:94 - calculate_neighbors] - Calculating user ratings and neighbors from data at ml-latest-small-v1...
+2024-12-13 11:04:35 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small-v1/movies.csv`
+2024-12-13 11:04:35 - ERROR [readers.py:42 - _validate_file] - The required file was not found: data/ml-latest-small-v1/movies.csv.
+NoneType: None
+2024-12-13 11:04:35 - ERROR [app.py:141 - update_neighbors_endpoint] - Error calculating neighbors: The required file was not found: data/ml-latest-small-v1/movies.csv.
+2024-12-13 11:04:44 - INFO [app.py:94 - calculate_neighbors] - Calculating user ratings and neighbors from data at ml-latest-small...
+2024-12-13 11:04:44 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 11:04:44 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 11:04:44 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 11:04:44 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 11:04:48 - INFO [app.py:102 - calculate_neighbors] - Calculated user ratings and neighbors for 610 users.
+2024-12-13 11:04:50 - INFO [app.py:114 - generate_recommendations] - Generating recommendations for user 1...
+2024-12-13 11:04:50 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 1
+2024-12-13 11:04:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 452 with similarity 0.16
+2024-12-13 11:04:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 266 with similarity 0.14
+2024-12-13 11:04:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.14
+2024-12-13 11:04:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.13
+2024-12-13 11:04:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 135 with similarity 0.13
+2024-12-13 11:04:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 239 with similarity 0.13
+2024-12-13 11:04:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 166 with similarity 0.13
+2024-12-13 11:04:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 202 with similarity 0.12
+2024-12-13 11:04:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 64 with similarity 0.12
+2024-12-13 11:04:50 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 45 with similarity 0.12
+2024-12-13 11:04:50 - DEBUG [engine.py:223 - recommend_ub] - {'Star Wars: Episode IV - A New Hope (1977)': 'P', 'Star Wars: Episode V - The Empire Strikes Back (1980)': 'P', 'Saving Private Ryan (1998)': 'P', 'Jurassic Park (1993)': 'P', 'Forrest Gump (1994)': 'P', 'Matrix, The (1999)': 'P', 'Princess Bride, The (1987)': 'P', 'Reservoir Dogs (1992)': 'P', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)': 'P', 'Indiana Jones and the Last Crusade (1989)': 'P', 'Braveheart (1995)': 'P', 'Monty Python and the Holy Grail (1975)': 'P', 'Alien (1979)': 'P', 'X-Men (2000)': 'P', 'Pulp Fiction (1994)': 'A', 'Fight Club (1999)': 'P', 'Terminator, The (1984)': 'P', 'Full Metal Jacket (1987)': 'P', 'Big Lebowski, The (1998)': 'P', 'Clockwork Orange, A (1971)': 'P', 'Austin Powers: International Man of Mystery (1997)': 'P', 'Fargo (1996)': 'P', 'American Beauty (1999)': 'P', 'Seven (a.k.a. Se7en) (1995)': 'P', 'Office Space (1999)': 'P', 'Star Wars: Episode VI - Return of the Jedi (1983)': 'P', 'Green Mile, The (1999)': 'P', 'Ghostbusters (a.k.a. Ghost Busters) (1984)': 'P', 'E.T. the Extra-Terrestrial (1982)': 'P', 'Who Framed Roger Rabbit? (1988)': 'P', 'Groundhog Day (1993)': 'P', 'Silence of the Lambs, The (1991)': 'P', 'Fugitive, The (1993)': 'P', 'Usual Suspects, The (1995)': 'P', 'Back to the Future (1985)': 'P', 'L.A. Confidential (1997)': 'P', 'Rocky (1976)': 'P', 'Apocalypse Now (1979)': 'P', 'Big (1988)': 'P', 'Dogma (1999)': 'P', 'Batman (1989)': 'P'}
+2024-12-13 11:04:50 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 2.39}, {'movieId': 858, 'title': 'Godfather, The (1972)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 2.352}, {'movieId': 32, 'title': 'Twelve Monkeys (a.k.a. 12 Monkeys) (1995)', 'movie_genres': 'Mystery|Sci-Fi|Thriller', 'recommendedScore': 2.059}, {'movieId': 1036, 'title': 'Die Hard (1988)', 'movie_genres': 'Action|Crime|Thriller', 'recommendedScore': 1.904}, {'movieId': 353, 'title': 'Crow, The (1994)', 'movie_genres': 'Action|Crime|Fantasy|Thriller', 'recommendedScore': 1.878}, {'movieId': 2683, 'title': 'Austin Powers: The Spy Who Shagged Me (1999)', 'movie_genres': 'Action|Adventure|Comedy', 'recommendedScore': 1.87}, {'movieId': 1221, 'title': 'Godfather: Part II, The (1974)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.823}, {'movieId': 588, 'title': 'Aladdin (1992)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Musical', 'recommendedScore': 1.775}, {'movieId': 1961, 'title': 'Rain Man (1988)', 'movie_genres': 'Drama', 'recommendedScore': 1.775}, {'movieId': 1682, 'title': 'Truman Show, The (1998)', 'movie_genres': 'Comedy|Drama|Sci-Fi', 'recommendedScore': 1.77}, {'movieId': 2167, 'title': 'Blade (1998)', 'movie_genres': 'Action|Horror|Thriller', 'recommendedScore': 1.763}, {'movieId': 1610, 'title': 'Hunt for Red October, The (1990)', 'movie_genres': 'Action|Adventure|Thriller', 'recommendedScore': 1.76}, {'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.717}, {'movieId': 1200, 'title': 'Aliens (1986)', 'movie_genres': 'Action|Adventure|Horror|Sci-Fi', 'recommendedScore': 1.626}, {'movieId': 2194, 'title': 'Untouchables, The (1987)', 'movie_genres': 'Action|Crime|Drama', 'recommendedScore': 1.616}, {'movieId': 2064, 'title': 'Roger & Me (1989)', 'movie_genres': 'Documentary', 'recommendedScore': 1.545}, {'movieId': 778, 'title': 'Trainspotting (1996)', 'movie_genres': 'Comedy|Crime|Drama', 'recommendedScore': 1.543}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.534}, {'movieId': 1704, 'title': 'Good Will Hunting (1997)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.527}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.524}]
+2024-12-13 09:34:53 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 09:34:53 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10, force_calculate=False)
+2024-12-13 09:34:53 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 09:34:53 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 09:34:53 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 09:34:53 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 09:34:53 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 09:34:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 09:34:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 09:34:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 09:34:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 09:34:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 09:34:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 09:34:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 09:34:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 09:34:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 09:34:53 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 09:34:53 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 09:34:53 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 09:35:06 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 09:35:06 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10, force_calculate=False)
+2024-12-13 09:35:06 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 09:35:06 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 09:35:06 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 09:35:06 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 09:35:06 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 09:35:06 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 09:35:06 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 09:35:06 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 09:35:06 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 09:35:06 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 09:35:06 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 09:35:06 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 09:35:06 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 09:35:06 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 09:35:06 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 09:35:06 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 09:35:06 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 09:38:10 - INFO [app.py:27 - <module>] - FastAPI App starting...
+2024-12-13 09:38:10 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 09:38:10 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 09:38:10 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 09:38:10 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 09:38:10 - INFO [app.py:45 - <module>] - Pre-calculated ratings and neighbors loaded.
+2024-12-13 09:43:04 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 09:43:04 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10, force_calculate=False)
+2024-12-13 09:43:04 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 09:43:04 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 09:43:04 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 09:43:04 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 09:43:04 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 09:43:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 09:43:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 09:43:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 09:43:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 09:43:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 09:43:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 09:43:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 09:43:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 09:43:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 09:43:04 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 09:43:04 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 09:43:04 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 09:43:23 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 09:43:23 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10, force_calculate=False)
+2024-12-13 09:43:23 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 09:43:23 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 09:43:24 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 09:43:24 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 09:43:24 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 09:43:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 09:43:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 09:43:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 09:43:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 09:43:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 09:43:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 09:43:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 09:43:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 09:43:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 09:43:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 09:43:24 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 09:43:24 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 19:49:20 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 19:49:20 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10, force_calculate=False)
+2024-12-13 19:49:20 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 19:49:20 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 19:49:20 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 19:49:20 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 19:49:20 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 19:49:20 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 19:49:20 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 19:49:20 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 19:49:20 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 19:49:20 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 19:49:20 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 19:49:20 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 19:49:20 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 19:49:20 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 19:49:20 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 19:49:20 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 19:49:20 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 18:05:50 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 18:05:50 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10, force_calculate=False)
+2024-12-13 18:05:50 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 18:05:50 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 18:05:50 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 18:05:51 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 18:05:51 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 18:05:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 18:05:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 18:05:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 18:05:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 18:05:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 18:05:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 18:05:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 18:05:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 18:05:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 18:05:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 18:05:51 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 18:05:51 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 18:07:51 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 18:07:51 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10, force_calculate=False)
+2024-12-13 18:07:51 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 18:07:51 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 18:07:51 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 18:07:51 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 18:07:51 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 18:07:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 18:07:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 18:07:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 18:07:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 18:07:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 18:07:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 18:07:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 18:07:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 18:07:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 18:07:51 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 18:07:51 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 18:07:51 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 18:08:03 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 18:08:03 - INFO [main.py:34 - main] - Input arguments: InputArguments(data_path=PosixPath('data/ml-latest-small'), neighbors_num=10, recommendations_num=10, force_calculate=False)
+2024-12-13 18:08:03 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 18:08:03 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 18:08:03 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 18:08:03 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 18:08:03 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 18:08:03 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 18:08:03 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 18:08:03 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 18:08:03 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 18:08:03 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 18:08:03 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 18:08:03 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 18:08:03 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 18:08:03 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 18:08:03 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 18:08:03 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P', 'Princess Bride, The (1987)': 'P', 'Pulp Fiction (1994)': 'P', 'Groundhog Day (1993)': 'P', 'Rain Man (1988)': 'P'}
+2024-12-13 18:08:03 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}, {'movieId': 1097, 'title': 'E.T. the Extra-Terrestrial (1982)', 'movie_genres': 'Children|Drama|Sci-Fi', 'recommendedScore': 1.458}, {'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 1.446}, {'movieId': 2858, 'title': 'American Beauty (1999)', 'movie_genres': 'Drama|Romance', 'recommendedScore': 1.444}, {'movieId': 2918, 'title': "Ferris Bueller's Day Off (1986)", 'movie_genres': 'Comedy', 'recommendedScore': 1.43}, {'movieId': 589, 'title': 'Terminator 2: Judgment Day (1991)', 'movie_genres': 'Action|Sci-Fi', 'recommendedScore': 1.425}]
+2024-12-13 18:08:16 - INFO [main.py:29 - <module>] - Main App starting...
+2024-12-13 18:13:45 - INFO [app.py:27 - <module>] - FastAPI App starting...
+2024-12-13 18:13:45 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/movies.csv`
+2024-12-13 18:13:45 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small/ratings.csv`
+2024-12-13 18:13:45 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_ratings.pkl
+2024-12-13 18:13:46 - INFO [readers.py:100 - unpickle_object] - Object has been unpickled from data/models/user_neighbors.pkl
+2024-12-13 18:13:46 - INFO [app.py:45 - <module>] - Pre-calculated ratings and neighbors loaded.
+2024-12-13 18:19:24 - INFO [app.py:114 - generate_recommendations] - Generating recommendations for user 100...
+2024-12-13 18:19:24 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 100
+2024-12-13 18:19:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 357 with similarity 0.12
+2024-12-13 18:19:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 169 with similarity 0.11
+2024-12-13 18:19:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 330 with similarity 0.11
+2024-12-13 18:19:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 201 with similarity 0.11
+2024-12-13 18:19:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 200 with similarity 0.10
+2024-12-13 18:19:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 282 with similarity 0.10
+2024-12-13 18:19:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 354 with similarity 0.09
+2024-12-13 18:19:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 594 with similarity 0.09
+2024-12-13 18:19:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 597 with similarity 0.09
+2024-12-13 18:19:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 42 with similarity 0.09
+2024-12-13 18:19:24 - DEBUG [engine.py:223 - recommend_ub] - {'Pretty Woman (1990)': 'P', 'Forrest Gump (1994)': 'P', 'Back to the Future (1985)': 'P', "There's Something About Mary (1998)": 'P', 'Saving Private Ryan (1998)': 'P', 'Men in Black (a.k.a. MIB) (1997)': 'P', 'Office Space (1999)': 'P', 'Breakfast Club, The (1985)': 'P', 'When Harry Met Sally... (1989)': 'P'}
+2024-12-13 18:19:24 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 2762, 'title': 'Sixth Sense, The (1999)', 'movie_genres': 'Drama|Horror|Mystery', 'recommendedScore': 1.655}, {'movieId': 260, 'title': 'Star Wars: Episode IV - A New Hope (1977)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.617}, {'movieId': 1210, 'title': 'Star Wars: Episode VI - Return of the Jedi (1983)', 'movie_genres': 'Action|Adventure|Sci-Fi', 'recommendedScore': 1.601}, {'movieId': 150, 'title': 'Apollo 13 (1995)', 'movie_genres': 'Adventure|Drama|IMAX', 'recommendedScore': 1.51}, {'movieId': 1, 'title': 'Toy Story (1995)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy', 'recommendedScore': 1.486}]
+2024-12-13 18:19:36 - INFO [app.py:114 - generate_recommendations] - Generating recommendations for user 10...
+2024-12-13 18:19:36 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 10
+2024-12-13 18:19:36 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 491 with similarity 0.08
+2024-12-13 18:19:36 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 331 with similarity 0.07
+2024-12-13 18:19:36 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 460 with similarity 0.07
+2024-12-13 18:19:36 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 159 with similarity 0.07
+2024-12-13 18:19:36 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 601 with similarity 0.07
+2024-12-13 18:19:36 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 119 with similarity 0.07
+2024-12-13 18:19:36 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 466 with similarity 0.07
+2024-12-13 18:19:36 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 189 with similarity 0.07
+2024-12-13 18:19:36 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 586 with similarity 0.06
+2024-12-13 18:19:36 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 563 with similarity 0.06
+2024-12-13 18:19:36 - DEBUG [engine.py:223 - recommend_ub] - {'Forrest Gump (1994)': 'P', 'Gladiator (2000)': 'P', 'Lord of the Rings: The Fellowship of the Ring, The (2001)': 'P', 'Lord of the Rings: The Two Towers, The (2002)': 'P', 'Lord of the Rings: The Return of the King, The (2003)': 'P', 'Up (2009)': 'P', 'Finding Nemo (2003)': 'P'}
+2024-12-13 18:19:36 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 318, 'title': 'Shawshank Redemption, The (1994)', 'movie_genres': 'Crime|Drama', 'recommendedScore': 0.911}, {'movieId': 50872, 'title': 'Ratatouille (2007)', 'movie_genres': 'Animation|Children|Drama', 'recommendedScore': 0.849}, {'movieId': 79132, 'title': 'Inception (2010)', 'movie_genres': 'Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX', 'recommendedScore': 0.84}, {'movieId': 4963, 'title': "Ocean's Eleven (2001)", 'movie_genres': 'Crime|Thriller', 'recommendedScore': 0.836}, {'movieId': 78499, 'title': 'Toy Story 3 (2010)', 'movie_genres': 'Adventure|Animation|Children|Comedy|Fantasy|IMAX', 'recommendedScore': 0.835}]
+2024-12-13 18:31:28 - INFO [app.py:81 - health] - Health check request received.
+2024-12-13 18:31:46 - INFO [app.py:81 - health] - Health check request received.
+2024-12-13 18:32:21 - INFO [app.py:81 - health] - Health check request received.
+2024-12-13 18:41:05 - INFO [app.py:94 - calculate_neighbors] - Calculating user ratings and neighbors from data at ml-latest-small-v2...
+2024-12-13 18:41:05 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small-v2/movies.csv`
+2024-12-13 18:41:05 - INFO [readers.py:35 - __init__] - Validating file `data/ml-latest-small-v2/ratings.csv`
+2024-12-13 18:41:05 - INFO [engine.py:61 - _load_user_ratings] - Processing User Ratings:
+2024-12-13 18:41:05 - INFO [engine.py:95 - _get_user_neighbors] - Calculating user Neighbors
+2024-12-13 18:41:10 - INFO [app.py:102 - calculate_neighbors] - Calculated user ratings and neighbors for 610 users.
+2024-12-13 18:41:24 - INFO [app.py:114 - generate_recommendations] - Generating recommendations for user 10...
+2024-12-13 18:41:24 - INFO [engine.py:169 - recommend_ub] - Calculating recommended movies for user: 10
+2024-12-13 18:41:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 491 with similarity 0.08
+2024-12-13 18:41:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 331 with similarity 0.07
+2024-12-13 18:41:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 460 with similarity 0.07
+2024-12-13 18:41:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 159 with similarity 0.07
+2024-12-13 18:41:24 - DEBUG [engine.py:179 - recommend_ub] - Processing neighbor 601 with similarity 0.07
+2024-12-13 18:41:24 - DEBUG [engine.py:223 - recommend_ub] - {'MOVIE #6377': 'P', 'MOVIE #356': 'P', 'MOVIE #81845': 'P', 'MOVIE #88810': 'A', 'MOVIE #3578': 'P'}
+2024-12-13 18:41:24 - INFO [engine.py:224 - recommend_ub] - [{'movieId': 318, 'title': 'MOVIE #318', 'movie_genres': 'Crime|Drama', 'recommendedScore': 0.578}, {'movieId': 69757, 'title': 'MOVIE #69757', 'movie_genres': 'Comedy|Drama|Romance', 'recommendedScore': 0.45}, {'movieId': 50872, 'title': 'MOVIE #50872', 'movie_genres': 'Animation|Children|Drama', 'recommendedScore': 0.447}, {'movieId': 7143, 'title': 'MOVIE #7143', 'movie_genres': 'Action|Adventure|Drama|War', 'recommendedScore': 0.436}, {'movieId': 4963, 'title': 'MOVIE #4963', 'movie_genres': 'Crime|Thriller', 'recommendedScore': 0.433}]

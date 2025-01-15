@@ -1,0 +1,20 @@
+[project]
+name = "interview-best-practices-2024"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "tanagnos",email = "tanagnos@raymetrics.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas (==2.2.3)",
+    "tqdm (==4.67.1)",
+    "typing-extensions (==4.12.2)",
+    "pytest (==8.3.4)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
