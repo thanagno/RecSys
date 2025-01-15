@@ -1,0 +1,58 @@
+# Python virtual environment
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# # Distribution / packaging
+# .Python
+# build/
+# develop-eggs/
+# dist/
+# downloads/
+# eggs/
+# .eggs/
+# lib/
+# lib64/
+# parts/
+# sdist/
+# var/
+# wheels/
+# *.egg-info/
+# .installed.cfg
+# *.egg
+
+# Logs and local database files
+*.log
+*.sqlite3
+
+# Environment settings
+.env
+.env.*
+
+# Editor and IDE settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# MyPy cache
+.mypy_cache/
+
+# pyre
+.pyre/
+
+# Bandit
+.bandit/
+
+# Local dev tools
+*.pkl
